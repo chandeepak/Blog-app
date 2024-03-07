@@ -1,0 +1,28 @@
+{
+  "name": "crash-course2",
+  "version": "2.0.0",
+  "description": "2nd ver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandeepak/nodeLearning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chandeepak/nodeLearning/issues"
+  },
+  "homepage": "https://github.com/chandeepak/nodeLearning#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.2.1",
+    "morgan": "^1.10.0"
+  }
+}
